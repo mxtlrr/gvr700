@@ -13,6 +13,8 @@ mkdir -p out/
 x86_64-w64-mingw32-gcc src/gvr-700.c -o ./out/GVR700.exe
 ```
 
+Alternatively, you can run `make`.
+
 ## Windows
 
 Firstly, make sure that:
